@@ -10,6 +10,8 @@ include the following minimum requirements:
 
 • Purpose of the web application and why it is needed (i.e., what problem/pain-
 points is it trying to solve)
+
 • Features of the web application (> MVP)
+
 • Hi-fi Prototypes of the web application in Adobe XD
 
